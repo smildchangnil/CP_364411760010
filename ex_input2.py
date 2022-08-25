@@ -12,5 +12,12 @@ Group: MIT421
 #print(x,y,z)
 
 mynum = [x for x in input("Enter many number: ").split(" ")]
+
+
 print(mynum)
+
+
+
+
+
 
