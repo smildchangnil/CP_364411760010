@@ -13,8 +13,8 @@ Group: MIT421
 
 mynum = [x for x in input("Enter many number: ").split(" ")]
 
-
 print(mynum)
+print('test')
 
 
 
